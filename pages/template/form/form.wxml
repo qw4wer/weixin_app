@@ -1,0 +1,20 @@
+<!--pages/template/form/form.wxml-->
+<view>{{innerText}}</view>
+
+<view>
+  <block wx:for="{{forms}}" wx:key="form" wx:for-item="form">
+
+
+    <text>
+    {{form.name}}
+    </text>
+    <text>
+    
+    </text>
+  </block>
+</view>
+
+
+
+
+

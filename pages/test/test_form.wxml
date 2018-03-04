@@ -1,0 +1,10 @@
+<!--pages/test/test_form.wxml-->
+<view>
+<text>test</text>
+  <my-form >
+
+
+
+  </my-form>
+
+</view>
